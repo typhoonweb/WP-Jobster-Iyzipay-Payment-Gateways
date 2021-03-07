@@ -12,6 +12,7 @@ Save the downloaded files in the wordpress plugin folder.
 # Activate
 From the admin panel, set it on Jobster > Payment Gateways > Iyzipay page.
 
+![alt text](https://github.com/typhoonweb/WP-Jobster-Iyzipay-Payment-Gateways/blob/iyzipay/screenshot_active.png)
 
 # Screenshot
 ![alt text](https://github.com/typhoonweb/WP-Jobster-Iyzipay-Payment-Gateways/blob/main/screenshot.png)
