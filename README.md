@@ -1,4 +1,4 @@
-Iyzipay payment method attempt for Wordpress WP Jobster theme works inconsistent.
+Iyzipay payment method attempt for Wordpress WP Jobster theme [ works inconsistent! ]
 
 
 # Requirements
