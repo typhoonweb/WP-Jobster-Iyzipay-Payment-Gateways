@@ -3,7 +3,7 @@ Iyzipay payment method attempt for Wordpress WP Jobster theme [ works inconsiste
 
 # Requirements
 
-* [**Iyzipay-php**] (https://github.com/iyzico/iyzipay-php)
+[**Iyzipay-php**] (https://github.com/iyzico/iyzipay-php)
 
 # Installation
 Download the latest iyzipay-php file from (https://github.com/iyzico/iyzipay-php/releases) and save it to iyzipay file.
